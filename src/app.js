@@ -2,7 +2,7 @@ import * as React from 'react'
 import '../public/globals.css'
 import { FlexCol } from './utils'
 import '../public/bootstrap.min.css'
-import { Card, Button } from './react-bootstrap'
+import { Card, Button } from 'react-bootstrap'
 
 export var App = () => {
   React.useEffect(() => {
