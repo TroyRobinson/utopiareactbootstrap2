@@ -11,7 +11,6 @@ export var Playground = ({ style }) => {
         contain: 'layout',
         ...style,
       }}
-      data-uid='a7b'
     >
       <div
         style={{
@@ -24,25 +23,21 @@ export var Playground = ({ style }) => {
           width: 'max-content',
           gap: 10,
         }}
-        data-uid='b15'
       >
         <img
           src='https://github.com/concrete-utopia/utopia/blob/master/editor/resources/editor/pyramid_fullsize@2x.png?raw=true'
           alt='Utopia logo'
           style={{ width: 118, height: 150 }}
-          data-uid='b0e'
         />
         <img
           src='https://github.com/concrete-utopia/utopia/blob/master/editor/resources/editor/pyramid_fullsize@2x.png?raw=true'
           alt='Utopia logo'
           style={{ width: 118, height: 150 }}
-          data-uid='aaf'
         />
         <img
           src='https://github.com/concrete-utopia/utopia/blob/master/editor/resources/editor/pyramid_fullsize@2x.png?raw=true'
           alt='Utopia logo'
           style={{ width: 118, height: 150 }}
-          data-uid='aam'
         />
       </div>
     </div>
