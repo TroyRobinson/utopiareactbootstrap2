@@ -38,6 +38,8 @@ export var App = () => {
         />
         <Card.Body>
           <Card.Title>John Joe</Card.Title>
+          <Card.Title>John Joe</Card.Title>
+          <Card.Title>John Joe</Card.Title>
           <Card.Text>Software Engineer</Card.Text>
           <Button variant='primary'>Contact</Button>
         </Card.Body>
